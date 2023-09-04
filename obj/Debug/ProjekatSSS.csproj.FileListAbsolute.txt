@@ -1,0 +1,19 @@
+E:\Desktop\PROJEKAT\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.AssemblyReference.cache
+E:\Desktop\PROJEKAT\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\PROJEKAT\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.CoreCompileInputs.cache
+E:\Desktop\F\PREDMETI\2\3 sem\5. Specifikacija softverskih sistema\PROJEKAT_konzolna\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.AssemblyReference.cache
+E:\Desktop\F\PREDMETI\2\3 sem\5. Specifikacija softverskih sistema\PROJEKAT_konzolna\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.SuggestedBindingRedirects.cache
+E:\Desktop\F\PREDMETI\2\3 sem\5. Specifikacija softverskih sistema\PROJEKAT_konzolna\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.CoreCompileInputs.cache
+E:\Desktop\F\PREDMETI\2\3 sem\5. Specifikacija softverskih sistema\PROJEKAT_konzolna\ProjekatSSS\ProjekatSSS\bin\Debug\ProjekatSSS.exe.config
+E:\Desktop\F\PREDMETI\2\3 sem\5. Specifikacija softverskih sistema\PROJEKAT_konzolna\ProjekatSSS\ProjekatSSS\bin\Debug\ProjekatSSS.exe
+E:\Desktop\F\PREDMETI\2\3 sem\5. Specifikacija softverskih sistema\PROJEKAT_konzolna\ProjekatSSS\ProjekatSSS\bin\Debug\ProjekatSSS.pdb
+E:\Desktop\F\PREDMETI\2\3 sem\5. Specifikacija softverskih sistema\PROJEKAT_konzolna\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.exe
+E:\Desktop\F\PREDMETI\2\3 sem\5. Specifikacija softverskih sistema\PROJEKAT_konzolna\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.pdb
+C:\Users\mirko\OneDrive\Documents\PROJEKAT_SSS[1]\PROJEKAT SSS\ProjekatSSS\ProjekatSSS\bin\Debug\ProjekatSSS.exe.config
+C:\Users\mirko\OneDrive\Documents\PROJEKAT_SSS[1]\PROJEKAT SSS\ProjekatSSS\ProjekatSSS\bin\Debug\ProjekatSSS.exe
+C:\Users\mirko\OneDrive\Documents\PROJEKAT_SSS[1]\PROJEKAT SSS\ProjekatSSS\ProjekatSSS\bin\Debug\ProjekatSSS.pdb
+C:\Users\mirko\OneDrive\Documents\PROJEKAT_SSS[1]\PROJEKAT SSS\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.AssemblyReference.cache
+C:\Users\mirko\OneDrive\Documents\PROJEKAT_SSS[1]\PROJEKAT SSS\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.SuggestedBindingRedirects.cache
+C:\Users\mirko\OneDrive\Documents\PROJEKAT_SSS[1]\PROJEKAT SSS\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.csproj.CoreCompileInputs.cache
+C:\Users\mirko\OneDrive\Documents\PROJEKAT_SSS[1]\PROJEKAT SSS\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.exe
+C:\Users\mirko\OneDrive\Documents\PROJEKAT_SSS[1]\PROJEKAT SSS\ProjekatSSS\ProjekatSSS\obj\Debug\ProjekatSSS.pdb
